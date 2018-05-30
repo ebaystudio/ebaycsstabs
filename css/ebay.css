@@ -24,7 +24,7 @@ a {
 .tcsm {
 	width: 90%;
 	margin: 0 auto;
-	padding-top: 70px;
+	padding-top: 15px;
 	position: relative
 }
 input, section {
@@ -38,7 +38,7 @@ label {
 	display: block;
 	float: left;
 	width: 20%;
-	padding: 1.5em;
+	padding: 1em;
 	color: #757575;
 	cursor: pointer;
 	text-decoration: none;
