@@ -1,2 +1,2 @@
 # ebaycsstabs
-responsive tabs
+responsive tabs ebay template. Copywrite Scalemotorcars.com No use without permision. 
