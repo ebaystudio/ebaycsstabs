@@ -10,6 +10,9 @@
 .sm20:after {
 	content: " All of the books I sell come from smoke and pet free collections."
 }
+.sm21:after {
+	content: " Satisfaction is guaranteed. "
+}
 article {
   -webkit-columns: 2 100px;
   -moz-columns: 2 100px;
