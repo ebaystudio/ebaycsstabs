@@ -1,1 +1,44 @@
 @charset "utf-8";.ctn,a,label{text-decoration:none}.ctn:active,.tcsm{position:relative}.ctn,.des1,label{font-weight:700}#why-us h2,#why-us h3,.tcsm,smb{font-family:Oswald,sans-serif}#why-us h2,.ctn,.lsm,.tcsm .tc h3,label{text-align:center}*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.clearfix:after,.clearfix:before{content:" ";display:table}.clearfix:after{clear:both}smb{background:#f6f9fa}a{color:#007CC3;outline:0}.tcsm{width:100%;margin:0 auto;padding-top:15px}input,section{clear:both;padding-top:10px;display:none}label{font-size:.85em;display:block;float:left;width:20%;padding:1.2em;color:#757575;cursor:pointer;background:#f0f0f0}#content6,#tab1:checked~#content1,#tab2:checked~#content2,#tab3:checked~#content3,#tab4:checked~#content4,#tab5:checked~#content5{display:block;padding:10px;background:#fff;color:#999;font-size:1em;border-bottom:2px solid #f0f0f0}.tcsm .tc h3,.tcsm .tc p{-webkit-animation:fadeInScale .7s ease-in-out;-moz-animation:fadeInScale .7s ease-in-out;animation:fadeInScale .7s ease-in-out}.tcsm [id^=tab]:checked+label{background:#fff;box-shadow:inset 0 3px #007CC3}.tcsm [id^=tab]:checked+label .fa{color:#007CC3}label .fa{font-size:1.3em;margin:0 .4em 0 0}@media only screen and (max-width:900px){l span{display:none}.tcsm{width:100%}}@keyframes fadeInScale{0%{transform:scale(.9);opacity:0}100%{transform:scale(1);opacity:1}}.ctn{background-color:#ededed;text-indent:-5px;border:2px solid #007CC3;display:inline-block;color:#777;height:57px;line-height:50px;width:190px}.ctn:hover{background-color:#dfdfdf}.ctn:active{top:1px}.r{color:#007CC3}.sm01:after{content:"To provide you with a clear and accurate description. I do my very best to describe every item in detail and accurately. I try to do this while being informative, a little entertaining and including important information like the condition and any possible flaws."}.sm02:after{content:" To Provide you with great customer service. Bottom line, I want you to be happy with your item, get it as fast as possible and be happy with me as a seller."}.sm03:after{content:" Read the description. Please check the measurements, color, size, shape, etc. of the item you are buying before you place a bid, send an offer or hit the buy it now button. I like my pictures and videos too and while they may be worth a thousand words or more they can’t tell an items full story."}.sm04:after{content:" Ask questions. If there is more information you want about an item, ask. I am always connected and I respond very quickly, unless I am asleep. Something doesn’t fit right with the title/description and the item? Ask me about it, I’ve been known to make mistakes (I am only human) and thankfully buyers have let me know that the error was there."}.sm05:after{content:" Contact me first. If there is a problem with your purchase then contact me first. Give me the chance to make it right."}.sm06:after{content:" To provide you with clear and accurate pictures. I was once asked why I used so many stock photos. While I greatly appreciate the compliment the answer is that I don’t. All photos in my listings are taken by me (unless otherwise stated) and are of the actual item being sold."}.sm08:after{content:" I want you to be completely happy! If for any reason you are not happy with your purchase I will gladly accept returns within 30 days of receipt (excluding AS-IS items, lots, clothing, and perishables)."}.sm09:after{content:" Because I provide actual images of the item listed for sale, I encourage you to view the 4x zoomed image of the item to verify its condition prior to purchase, avoiding you the hassle of requesting a return."}.sm10:after{content:" Shipping Cost. Depending on the item(s) you purchase and the location to which the items will be delivered, different shipping methods are available. At checkout, you will be prompted to choose a shipping method. Shipping costs are based on the shipping method that you choose. Your total shipping charges will automatically compute during checkout prior to the completion of your order."}.sm12:after{content:" I make it my priority to present 100% customer satisfaction. I would be happy to hear from you! I am  dedicated to my customers and feel you should have the personal attention you deserve. Not only do I offer incredible pricing, but it is my desire to earn 5 Stars from you every day. I continue to make YOU, my customer, my  number one priority. I want your continued business! I would love to hear from you if you have questions, suggestions or just want to chat!"}.sm13:after{content:" Combined Shipping, Domestic and International. You will pay full shipping on the first item or whichever item in your order has the highest shipping rate. For each additional item you will save 50% off of the advertised shipping price. Additional items under 8 ounces will usually ship for only $0.05 Domestically and $0.40 Internationally."}.sm15:after{content:" All returns will be inspected before we issue your refund. Returns must be accompanied by the original packaging. Refunds will be issued for the purchase price of the item(s) returned. Shipping Costs are nonrefundable unless the error lies with how the item was listed. We cannot assume responsibility for lost shipments."}.des1{color:#747474;font-size:18px}#why-us{background-color:#f4f4f4;color:#007CC3}#why-us h2{padding-top:30px;margin-bottom:20px}#why-us h3{margin-bottom:0}#why-us .reason{width:95%;margin:auto;padding-bottom:20px;font-size:.8em}#why-us .reason>div{display:inline-block;vertical-align:top}#why-us .reason>div:last-child{padding:10px 0 0 2%;width:70%}#why-us .reason img{width:60px}#why-us h2{font-size:1.5em}#why-us h3{font-size:1.4em;font-weight:100;white-space:nowrap;padding-bottom:5px;margin-top:0}#why-us .reasons{width:78%;margin:auto;overflow:hidden;padding-bottom:20px}#why-us .reasons .reason{float:left;width:50%;line-height:1.5em}.section{width:95%;margin:0 auto 30px}#why-us .reason>div i{width:2em;text-align:center;line-height:2em;background:#007CC3;color:#fff;border-radius:1em}.sm18:after{content:" You are looking at a scan of the actual book. I never use STOCK photos."}.sm19:after{content:" This is 1 in a collection of about 300 comic books I have listed now."}.sm20:after{content:" All of the books I sell come from smoke and pet free collections."}.sm21:after{content:" Satisfaction is guaranteed. "}article{-webkit-columns:2 100px;-moz-columns:2 100px;columns:2 100px;-webkit-column-gap:2em;-moz-column-gap:2em;column-gap:2em;-webkit-column-rule:1px dotted #ddd;-moz-column-rule:1px dotted #ddd;column-rule:1px dotted #ddd}.res-img{max-width:100%;height:auto}.fa-check-circle{background:#fff;color:#007CC3}.fa-star:hover{color:#007CC3;transform:rotate(-15deg) scale(1.1)}#picturebox{width: 80% background-color: grey;color: white;}
+table.blueTable {
+  border: 1px solid #0079C1;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.blueTable td, table.blueTable th {
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+table.blueTable tbody td {
+  font-size: 13px;
+}
+table.blueTable tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.blueTable thead {
+  background: #0079C1;
+  background: -moz-linear-gradient(top, #409ad0 0%, #1986c7 66%, #0079C1 100%);
+  background: -webkit-linear-gradient(top, #409ad0 0%, #1986c7 66%, #0079C1 100%);
+  background: linear-gradient(to bottom, #409ad0 0%, #1986c7 66%, #0079C1 100%);
+  border-bottom: 2px solid #444444;
+}
+table.blueTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #D0E4F5;
+}
+table.blueTable thead th:first-child {
+  border-left: none;
+}
+
+.thumbnailzoom:hover {
+    position:relative;
+    top:-25px;
+    left:-1px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:99999;
+}
