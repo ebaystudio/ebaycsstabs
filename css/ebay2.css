@@ -10,7 +10,7 @@ table.blueTable td, table.blueTable th {
   border: 1px solid #AAAAAA;
   padding: 3px 2px;
 }
-/* table.blueTable tbody td {
+table.blueTable tbody td {
   font-size: 13px;
 }
 table.blueTable tr:nth-child(even) {
@@ -31,7 +31,7 @@ table.blueTable thead th {
 }
 table.blueTable thead th:first-child {
   border-left: none;
-}*/
+}
 
 .thumbnailzoom:hover {
     position:relative;
